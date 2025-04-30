@@ -1,4 +1,4 @@
-# EAD_Python
+# EDA_Python
 Análise Exploratória de Dados com Python
 
  Este projeto foi feito como parte da avaliação de um dos módulos do curso de Análise de Dados da EBAC, com o objetivo de pôr em prática os conceitos previamente abordados, envolvendo coleta, exploração, manipulação, visualização dos dados e os insights que se pode ober através da análise dos resultados.
